@@ -1,0 +1,11 @@
+issue_prefix: gt
+issue-prefix: gt
+dolt.auto-start: false
+dolt:
+  disable-event-flush: true
+export.auto: false
+backup.enabled: false
+gc.endpoint_origin: inherited_city
+gc.endpoint_status: verified
+
+sync.remote: "git+https://github.com/bodawei/gc-test.git"
